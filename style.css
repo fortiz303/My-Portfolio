@@ -298,8 +298,8 @@ div .content {
 .contact-form textarea {
 	margin-top:10px;
 	height: 110px;
-
 }
+
 
 input:focus {
 	border:solid 1px #cacaca;
@@ -377,7 +377,7 @@ footer .button-wrapper {
 /* styling for the calculator*/
 
 body {
-  background-color: #154733;
+  background-color: white;
   color: white;
   font-family: 'Arial', sans-serif;
   font-size: 18px;
@@ -419,6 +419,10 @@ body {
 #submit:hover {
   background-color: #2980b9;
   border: solid 15px #3498db;
+}
+
+.addGreenToBody {
+	background-color:#154733;
 }
 
 .bg-modal {
