@@ -25,6 +25,7 @@ body {
 	color: orange;
 	margin-bottom: 5rem;
 	margin-top: 0;
+	color: #FEE123;
 }
 
 /*Social Media*/
@@ -61,7 +62,7 @@ body {
 header {
 	width: 100%;
 	position: fixed;
-	background-color: #222;
+	background-color: #154733;
 	z-index: 1;
 	padding-top: 1rem;
 }
@@ -120,7 +121,7 @@ li a:hover {
 /*----------Banner Styles----------*/
 
 #banner {
-	background-color: #222;
+	background-color: #154733;
 	width:100%;
 	height: 100%;
 	color: #fff;
@@ -140,6 +141,7 @@ li a:hover {
 	margin:0 auto;
 	padding: 0;
 	font-family: 'Open Sans', sans-serif;
+	background-color: #154733;
 }
 
 #sub-title {
@@ -197,7 +199,7 @@ div .content {
 	color: #fff;
 	width: 100%;
 	height: 100%;
-	background-color: #222;
+	background-color: #154733;
 }
 
 #portfolio .wrapper h2 {
@@ -243,7 +245,7 @@ div .content {
 #port-padding {
 	width: 100%;
 	height: 6rem;
-	background-color: #222;
+	background-color: #154733;
 }
 
 /*----------Contact Styles----------*/
@@ -375,8 +377,8 @@ footer .button-wrapper {
 /* styling for the calculator*/
 
 body {
-  background-color: #bdc3c7;
-  color: #2980b9;
+  background-color: #154733;
+  color: white;
   font-family: 'Arial', sans-serif;
   font-size: 18px;
   font-weight: 700;
@@ -384,12 +386,12 @@ body {
 }
 
 .input {
-  background-color: #e74c3c;
-  color: #ecf0f1;
+  background-color: #FFFF82;
+  color: black;
   width: 450px;
   height: 100px;
   border-radius: 15px;
-  border: dashed 10px #e67e22;
+  border: solid 5px #e67e22;
   text-align: center;
   font-size: 52px;
   margin-bottom: 20px;
@@ -397,8 +399,8 @@ body {
   padding: 20px 0;
 }
 
-.spacing{
-  margin-bottom: 2px
+.spacing {
+  margin-bottom: '10px';
 }
 
 #submit {
@@ -428,6 +430,7 @@ body {
    display: none;
    justify-content: center;
    align-items: center;
+	 color: black;
 }
 
 .modal-content {
